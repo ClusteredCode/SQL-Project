@@ -39,7 +39,8 @@ use adventureworks;
 ##Get all fields from Tables
 select
 
-##To Generate Customer Name We used concat_ws function which has seperator value ' ' and all other fields insted of concat function as there are some null fields
+##To Generate Customer Name We used concat_ws function which has seperator value ' ' and all other fields
+##insted of concat function as there are some null fields
 concat_ws(' ', contact.Title, contact.FirstName,contact.MiddleName,contact.LastName) as CustomerName, 
 
 ##All fields of customer's address
