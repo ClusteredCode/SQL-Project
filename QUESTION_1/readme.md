@@ -4,13 +4,15 @@ A comprehensive analysis of business data using SQL queries to solve critical pr
 
 ## Overview
 
+Here is the sql to calculate the provided problem and the data output screenshots.
 
 ## Deliverables
 
 The project's deliverables include the following:
 
 - **SQL Query File**: Contains the SQL queries used to generate data for solving each problem statement.
-- **Presentation Slides**: A PowerPoint or Google Slides presentation summarizing the key findings, along with data representation in chart format.
+- **OUTPUT**: OUTPUT TABLE.
+- **PIE CHART**: PIE CHART.
 
 ## Problem Statements
 
@@ -29,7 +31,10 @@ ORDER BY TotalSales DESC;
 
 ## Presentation and Findings
 
+THE TABLE OF OUTPUT DATA
+
 ![Table Output of Data](Table_Question_1.png)
 
+THE PIE CHART CREATED WITH OUTPUT DATA
 
 ![Pie Chart of Data](PIE_Chart_Question_1.png)
