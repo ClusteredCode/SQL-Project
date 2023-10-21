@@ -7,8 +7,8 @@ This repository contains a collection of SQL queries focused on business analysi
 - [Overview](#overview)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
+  
 ## Overview
 
 The SQL queries in this repository are tailored to aid in understanding and analyzing various aspects of business data. Each query is accompanied by comments and explanations to ensure clarity and ease of use. Whether you're an analyst, data scientist, or anyone interested in exploring business data, these queries can serve as a valuable resource for your analytical needs.
@@ -20,8 +20,3 @@ Feel free to use these SQL queries for your data analysis projects, research, or
 ## Contributing
 
 Contributions to this repository are welcome. If you have additional SQL queries or improvements to the existing ones, please feel free to submit a pull request. Make sure to follow the existing style and structure of the queries. For any major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to utilize, modify, and distribute the content in this repository for commercial or non-commercial purposes. Refer to the [LICENSE](LICENSE) file for more information.
-
