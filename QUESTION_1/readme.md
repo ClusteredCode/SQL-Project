@@ -5,8 +5,8 @@ A comprehensive analysis of business data using SQL queries to solve critical pr
 ## Table of Contents
 - [Overview](#overview)
 - [Deliverables](#Deliverables)
-- [Problem Statements](#Problem_Statements)
-- [Presentation and Findings](#Presentation_and_Findings)
+- [Problem Statements](#Problem-Statements)
+- [Presentation and Findings](#Presentation-and-Findings)
 
 ## Overview
 
