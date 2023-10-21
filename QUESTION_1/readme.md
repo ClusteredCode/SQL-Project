@@ -2,9 +2,16 @@
 
 A comprehensive analysis of business data using SQL queries to solve critical problem statements.
 
+## Table of Contents
+- [Overview](#overview)
+- [Deliverables](#Deliverables)
+- [Problem Statements](#Problem_Statements)
+- [Presentation and Findings](#Presentation_and_Findings)
+
 ## Overview
 
 Here is the sql to calculate the provided problem and the data output screenshots.
+
 
 ## Deliverables
 
